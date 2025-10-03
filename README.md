@@ -1,4 +1,3 @@
-# google-playstore-eda
 # Google Play Store EDA 
 
 This project performs an **Exploratory Data Analysis (EDA)** of the **Google Play Store dataset** and the **User Reviews dataset** to better understand app performance, user behavior, and sentiment trends.  
